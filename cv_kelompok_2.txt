@@ -1,1 +1,5 @@
-
+Nama :Zefanya Marcel K.J, No HP : 081318101857 Email : zefanya.marcel@gmail.com
+Education : D3 Teknik Telekomunikasi
+Skills : C++, PHP, NodeJS, MySql,dll.
+Profile : Peserta Shifted BTPNS Batch-2.
+Work Experience: Project Engineer(Buznet)
