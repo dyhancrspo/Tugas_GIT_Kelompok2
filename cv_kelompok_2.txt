@@ -1,5 +1,5 @@
-No HP : 082286369596 Email : yulandayoga@gmail.com
-Education : D3 Teknik Telekomunikasi - Politeknik Negeri Jakarta
-Skills : ReactJS, NodeJS, ExpressJS, MongoDB, Python, Php, danlainlain.
+Fuad Zauqi Nur, No HP : 088214931227 Email : zauqi09@gmail.com
+Education : S1 Informatika, Telkom University
+Skills : Python, C++, PHP Laravel, MySql, dan masih banyak lagi.
 Profile : Experience leading organizations nearly 4 years leading different organizations. BTPNS Shifted Batch 2 participants.
-Work Experience: Magang di KEMENDIKBUD selama dua bulan membuat Website Kebudayaan pakai CodeIgniter
+Work Experience: 2014-2020 Developer Private Server Counter Strike 1.6 (Vectrogamers)
