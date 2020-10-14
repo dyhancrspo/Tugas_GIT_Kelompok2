@@ -1,5 +1,5 @@
-No HP : 082286369596 Email : yulandayoga@gmail.com
-Education : D3 Teknik Telekomunikasi - Politeknik Negeri Jakarta
-Skills : ReactJS, NodeJS, ExpressJS, MongoDB, Python, Php, danlainlain.
-Profile : Experience leading organizations nearly 4 years leading different organizations. BTPNS Shifted Batch 2 participants.
-Work Experience: Magang di KEMENDIKBUD selama dua bulan membuat Website Kebudayaan pakai CodeIgniter
+Nama :Zefanya Marcel K.J, No HP : 081318101857 Email : zefanya.marcel@gmail.com
+Education : D3 Teknik Telekomunikasi
+Skills : C++, PHP, NodeJS, MySql,dll.
+Profile : Peserta Shifted BTPNS Batch-2.
+Work Experience: Project Engineer(Buznet)
