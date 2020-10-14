@@ -3,14 +3,11 @@ Education : D3 Teknik Telekomunikasi
 Skills : C++, PHP, NodeJS, MySql,dll.
 Profile : Peserta Shifted BTPNS Batch-2.
 Work Experience: Project Engineer(Buznet)
-
-
 No HP : 082286369596 Email : yulandayoga@gmail.com
 Education : S1 iNFORMATIKA - UNIVERSITAS AMIKOM YOGYAKARTA
 Skills : HTML, PHP DAN LAIN-LAIN
 Profile : BTPNS Shifted Batch 2 participants.
 Work Experience: Student staff tracer study
-
 Irene Nurintan,  No HP : 083898223157 Email : renren1335@gmail.com
 Education : S1 Ilmu Komputer Universitas Jakarta
 Skills : CodeIgniter, Laravel, Python, PHP, PhpMyAdmin
