@@ -2,4 +2,4 @@
 
 
 
-Work Experience: Magang di KEMENDIKBUD selama dua bulan membuat Website Kebudayaan menggunakan CodeIgniter
+Work Experience: Magang di KEMENDIKBUD selama dua bulan membuat Website Kebudayaan pakai CodeIgniter
