@@ -1,5 +1,5 @@
-No HP : 082286369596 Email : yulandayoga@gmail.com
-Education : D3 Teknik Telekomunikasi - Politeknik Negeri Jakarta
-Skills : ReactJS, NodeJS, ExpressJS, MongoDB, Python, Php, danlainlain.
-Profile : Experience leading organizations nearly 4 years leading different organizations. BTPNS Shifted Batch 2 participants.
-Work Experience: Magang di KEMENDIKBUD selama dua bulan membuat Website Kebudayaan pakai CodeIgniter
+Dyhan Haqnas Crespo, No HP : 087783877455 Email : dyhanhaqnas@gmail.com
+Education : S1 Sistem Informasi, Universitas Gunadarma
+Skills : NodeJS, ReactJS, php, MongoDB, danlainlain=.
+Profile : Rajin menabung dan tidak sombong.
+Work Experience: Freelance Web Dev
