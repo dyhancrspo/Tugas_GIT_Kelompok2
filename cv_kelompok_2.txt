@@ -1,5 +1,5 @@
 No HP : 082286369596 Email : yulandayoga@gmail.com
-Education : D3 Teknik Telekomunikasi - Piliteknik Negeri Jakarta
+
 Skills : ReactJS, NodeJS, ExpressJS, MongoDB, Python, Php, danlainlain.
 Profile : Experience leading organizations nearly 4 years leading different organizations. BTPNS Shifted Batch 2 participants.
 
