@@ -1,5 +1,12 @@
+
 Fuad Zauqi Nur, No HP : 088214931227 Email : zauqi09@gmail.com
 Education : S1 Informatika, Telkom University
 Skills : Python, C++, PHP Laravel, PHP Native, MySql, dan masih banyak lagi.
 Profile : Experience leading organizations nearly 4 years leading different organizations. BTPNS Shifted Batch 2 participants.
 Work Experience: 2014-2020 Developer Private Server Counter Strike 1.6 (Vectrogamers)
+
+Irene Nurintan,  No HP : 083898223157 Email : renren1335@gmail.com
+Education : S1 Ilmu Komputer Universitas Jakarta
+Skills : CodeIgniter, Laravel, Python, PHP, PhpMyAdmin
+Profile : Menyukai hal-hal baru. Pekerja keras. Peserta BTPNS Shifted Batch 2.
+Work Experience: Magang di KEMENDIKBUD selama dua bulan membuat Website Kebudayaan menggunakan CodeIgniter
