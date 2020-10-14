@@ -26,4 +26,3 @@ Education : S1 Sistem Informasi, Universitas Gunadarma
 Skills : NodeJS, ReactJS, php, MongoDB, danlainlain=.
 Profile : Rajin menabung dan tidak sombong.
 Work Experience: Freelance Web Dev
-
